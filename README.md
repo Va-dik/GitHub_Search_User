@@ -1,3 +1,3 @@
 # gihub_search_user
 
-A new Flutter project.
+Вячеслав, не судите строго :)
